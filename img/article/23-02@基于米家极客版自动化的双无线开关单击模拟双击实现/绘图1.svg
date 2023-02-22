@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 绘图1.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="4.75882in" height="1.38077in" viewBox="0 0 342.635 99.4153" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st5">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:宋体;font-size:0.666664em}
+		.st3 {font-size:1em}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>页-1</title>
+		<g id="shape1-1" transform="translate(0.12,-35.9261)">
+			<title>开始/结束</title>
+			<desc>按键点击</desc>
+			<path d="M14.17 99.42 L56.69 99.42 A14.1732 14.1732 -180 0 0 56.69 71.07 L14.17 71.07 A14.1732 14.1732 -180 1 0 14.17
+						 99.42 Z" class="st1"/>
+			<text x="19.43" y="87.64" class="st2">按键点击</text>		</g>
+		<g id="shape3-4" transform="translate(186.61,-28.8394)">
+			<title>判定</title>
+			<desc>判断</desc>
+			<path d="M0 78.16 L35.43 56.9 L70.87 78.16 L35.43 99.42 L0 78.16 Z" class="st1"/>
+			<text x="27.43" y="80.56" class="st2">判断</text>		</g>
+		<g id="shape4-7" transform="translate(271.649,-35.9261)">
+			<title>开始/结束.4</title>
+			<desc>执行操作</desc>
+			<path d="M14.17 99.42 L56.69 99.42 A14.1732 14.1732 -180 0 0 56.69 71.07 L14.17 71.07 A14.1732 14.1732 -180 1 0 14.17
+						 99.42 Z" class="st1"/>
+			<text x="19.43" y="87.64" class="st2">执行操作</text>		</g>
+		<g id="shape2-10" transform="translate(105.3,-70.2402)">
+			<title>流程</title>
+			<desc>触发事件 延时卡片结束</desc>
+			<rect x="0" y="70.3602" width="70.8661" height="29.0551" class="st1"/>
+			<text x="19.43" y="82.49" class="st2">触发事件 <tspan x="3.43" dy="1.2em" class="st3">（</tspan>延时卡片结束）</text>		</g>
+		<g id="shape5-14" transform="translate(105.3,-0.12)">
+			<title>流程.5</title>
+			<desc>状态条件 按下次数</desc>
+			<rect x="0" y="70.3602" width="70.8661" height="29.0551" class="st1"/>
+			<text x="19.43" y="82.49" class="st2">状态条件 <tspan x="11.43" dy="1.2em" class="st3">（</tspan>按下次数）</text>		</g>
+		<g id="shape8-18" transform="translate(70.9861,-50.0993)">
+			<title>动态连接线</title>
+			<path d="M0 99.42 L10.63 99.42 L10.63 64.75 L34.31 64.75" class="st4"/>
+		</g>
+		<g id="shape9-21" transform="translate(70.9861,-50.0993)">
+			<title>动态连接线.9</title>
+			<path d="M0 99.42 L10.63 99.42 L10.63 134.87 L34.31 134.87" class="st4"/>
+		</g>
+		<g id="shape10-24" transform="translate(176.166,-14.6476)">
+			<title>动态连接线.10</title>
+			<path d="M0 99.42 L45.88 99.42 L45.88 85.22" class="st4"/>
+		</g>
+		<g id="shape11-27" transform="translate(176.166,-85.15)">
+			<title>动态连接线.11</title>
+			<path d="M0 99.8 L45.88 99.8 L45.88 113.21" class="st4"/>
+		</g>
+		<g id="shape12-30" transform="translate(257.476,-43.0127)">
+			<title>动态连接线.12</title>
+			<path d="M0 92.33 L14.17 92.33" class="st4"/>
+		</g>
+	</g>
+</svg>
